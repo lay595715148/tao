@@ -13,7 +13,7 @@ public class ContextWrapper extends Context {
 	 * @param Context $base
 	 */
     public function __construct($base) {
-        $this->base = base;
+        $this->base = $base;
     }
 
     /**

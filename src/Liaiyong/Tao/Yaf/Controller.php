@@ -7,5 +7,6 @@ use Yaf\Response_Abstract;
 
 class Controller extends Controller_Abstract {
 	public function init() {
+		
 	}
 }
