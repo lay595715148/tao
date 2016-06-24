@@ -6,7 +6,7 @@ use Liaiyong\Tao\Core\Component;
 /**
  * 工具类
  *
- * @author Dcux Li
+ * @author Lay Aiyong Li
  */
 class Utility {
     /**
